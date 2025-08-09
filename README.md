@@ -1,7 +1,7 @@
 # PhotoCopy
 PhotoCopy Theme by robcox
 
-<img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/f724ecea-04d9-4af6-803c-3897940dd56c" />
+<img width="1920" height="1080" alt="preview1" src="https://github.com/user-attachments/assets/40dd8bdb-fc47-4752-baa1-dfa8c6e862be" />
 
 # Description
 A sleek professional dark theme for Gnome with ZorinOS 17 gnome-shell
