@@ -13,6 +13,8 @@ CopyRoom is a Dark only theme that overrides the Light/Dark Switcher for most ap
 <img width="1920" height="1080" alt="preview2" src="https://github.com/user-attachments/assets/12056a94-6259-4083-b12f-13ec1c51b734" />
 
 # Installation
+Download PhotoCopy Theme here: <a href="https://www.pling.com/p/2310520/">https://www.pling.com/p/2310520/</a>
+
 Right-click on file PhotoCopy.tar.xz and select "Extract Here"
 
 Copy/Paste new PhotoCopy folder to location:
