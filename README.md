@@ -25,7 +25,7 @@ Copy/Paste new PhotoCopy folder to location:
 
 Use your Appearance Settings App or GNOME Tweaks to set new theme
 
-# Extra
+# Extras
 
 Please find included - Wallpapers folder
 
